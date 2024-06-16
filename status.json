@@ -1,0 +1,99 @@
+[
+  { "text": "Hello, world!" },
+  { "text": "Coding is life." },
+  { "text": "Python rocks! 🐍" },
+  { "text": "Keep calm and code on." },
+  { "text": "JavaScript is everywhere." },
+  { "text": "404 Brain not found." },
+  {
+    "text": "Debugging is like being the detective in a crime movie where you are also the murderer."
+  },
+  { "text": "There's no place like 127.0.0.1" },
+  { "text": "I'm not anti-social; I'm just not user friendly." },
+  { "text": "May the source be with you." },
+  { "text": "Programmer: A machine that turns coffee into code." },
+  { "text": "Got syntax errors but I'm okay." },
+  { "text": "Null is not null." },
+  { "text": "Eat, Sleep, Code, Repeat." },
+  {
+    "text": "I'm not a great programmer; I'm just a good programmer with great habits."
+  },
+  { "text": "To iterate is human, to recurse divine." },
+  {
+    "text": "99 bugs in the code, 99 bugs in the code, take one down, patch it around, 127 bugs in the code."
+  },
+  {
+    "text": "There are only 10 types of people in the world: those who understand binary, and those who don't."
+  },
+  { "text": "Real programmers count from 0." },
+  {
+    "text": "Algorithm: Word used by programmers when they don't want to explain what they did."
+  },
+  {
+    "text": "Software developers like to solve problems. If there are no problems handily available, they will create their own problems."
+  },
+  {
+    "text": "A user interface is like a joke. If you have to explain it, it's not that good."
+  },
+  { "text": "When in doubt, use brute force." },
+  { "text": "Simplicity is the soul of efficiency." },
+  { "text": "Programmers don't die, they just go offline." },
+  { "text": "Keyboard not found. Press any key to continue." },
+  {
+    "text": "There's no such thing as a perfect software, only different degrees of brokenness."
+  },
+  { "text": "It's not a bug, it's an undocumented feature." },
+  { "text": "The code works on my machine." },
+  { "text": "Coffee: The programmer's fuel." },
+  { "text": "Code like a butterfly, sting like a bee." },
+  { "text": "Code is poetry." },
+  { "text": "I'm not procrastinating, I'm doing side quests." },
+  { "text": "The best error message is the one that never shows up." },
+  { "text": "I am root." },
+  { "text": "I'm here to break your code." },
+  { "text": "Have you tried turning it off and on again?" },
+  { "text": "Keep calm and call tech support." },
+  { "text": "This code is so old it's singing 'Daisy'." },
+  { "text": "Code it like you mean it." },
+  { "text": "I write code, I break code, I fix code, I write code..." },
+  { "text": "Divide and conquer." },
+  {
+    "text": "Don't worry if it doesn't work right. If everything did, you'd be out of a job."
+  },
+  { "text": "The best code is no code at all." },
+  { "text": "Binary is as easy as 01, 10, 11." },
+  { "text": "It compiles on my machine." },
+  { "text": "git commit -m 'Fix typo.'" },
+  { "text": "I find your lack of faith disturbing (in my code)." },
+  { "text": "I can't, I'm debugging." },
+  { "text": "Just Google it." },
+  { "text": "My code never has bugs, it just develops random features." },
+  {
+    "text": "Roses are #FF0000, Violets are #0000FF, All my base are belong to you."
+  },
+  { "text": "The code must flow." },
+  { "text": "Life is too short to remove USB safely." },
+  { "text": "There's no problem a library can't solve." },
+  {
+    "text": "Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live."
+  },
+  {
+    "text": "In theory, there is no difference between theory and practice. But in practice, there is."
+  },
+  { "text": "Talk is cheap. Show me the code." },
+  { "text": "A bug in the code is worth two in the documentation." },
+  { "text": "Do or do not. There is no try." },
+  { "text": "sudo make me a sandwich." },
+  { "text": "404 Team member not found." },
+  {
+    "text": "I'm just a CPU, standing in front of a compiler, asking it to love me."
+  },
+  { "text": "Push your commits." },
+  { "text": "There's no place like ~/." },
+  { "text": "There's no place like localhost." },
+  { "text": "404 Motivation not found." },
+  { "text": "git push origin master." },
+  { "text": "My code is like my love life - nonexistent." },
+  { "text": "If at first, you don't succeed, call it version 1.0." },
+  { "text": "The best way to accelerate a Macintosh is at 9.8 m/s²." }
+]
