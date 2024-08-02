@@ -1,5 +1,5 @@
 # Distatus
-### Getting Started
+## Getting Started
 1. **Create a `.env` file** in the projects directory and add your Discord `TOKEN`:
 ```env
 TOKEN=your-discord-token-here
